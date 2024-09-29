@@ -8,7 +8,6 @@ import dragdrop from "../assets/features/desktop/drag-drop.svg";
 import hero from "../assets/features/mobile/hero.jpg";
 import heromid from "../assets/features/tablet/hero.jpg";
 import herodesk from "../assets/features/desktop/hero.jpg";
-import create_and_share_mid from "../assets/home/tablet/create-and-share.jpg";
 import arrow from "../assets/shared/desktop/arrow.svg";
 export default function Features() {
 	return (
